@@ -1,0 +1,1 @@
+[21-Nov-2017 15:51:03 UTC] PHP Fatal error:  Cannot use App\Sort as Sort because the name is already in use in /home/vnts0xtjyjld/public_html/app/Http/Controllers/HomeController.php on line 10
